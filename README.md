@@ -1,1 +1,3 @@
-Rapport - a place to hang, talk, and build rapport
+# Rapport
+
+A place to hangout, talk and build rapport
