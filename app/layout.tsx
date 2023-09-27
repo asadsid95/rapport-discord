@@ -1,4 +1,4 @@
-import { ClerkProvider } from '@clerk/nextjs'
+import { ClerkProvider, UserButton } from '@clerk/nextjs'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Open_Sans } from 'next/font/google'
@@ -29,7 +29,6 @@ export default function RootLayout({
             storageKey='discord-theme'>
             {children}
           </ThemeProvider>
-
         </body>
       </html>
     </ClerkProvider >
