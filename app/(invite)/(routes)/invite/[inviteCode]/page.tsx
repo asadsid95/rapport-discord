@@ -5,7 +5,7 @@ import { redirect } from "next/navigation"
 
 interface InviteCodePageProps {
     params: {
-        inviteCode: String
+        inviteCode: string
     }
 }
 
